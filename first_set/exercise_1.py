@@ -12,5 +12,7 @@ elif day_int == 4:
     print("Thursday")
 elif day_int == 5:
     print("Friday")
-else:
+elif day_int == 6:
     print("Saturday")
+else:
+    print("Please give a number between 0 and 6")
