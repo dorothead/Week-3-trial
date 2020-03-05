@@ -1,4 +1,4 @@
-# try to upload on Github
+# try to upload on Github, 2nd try
 
 day_int = int(input("What day of the week is it? (number please)"))
 
