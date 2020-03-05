@@ -1,3 +1,5 @@
+# try to upload on Github
+
 day_int = int(input("What day of the week is it? (number please)"))
 
 if day_int == 0:        # note the double "="-sign
